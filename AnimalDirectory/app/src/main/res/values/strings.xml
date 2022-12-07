@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zoo Directory</string>
+
+    <string name="information">Zoo Information</string>
+    <string name="name">Jawaharlal Nehru Zoological Park</string>
+    <string name="callus">Call us: 888-8888</string>
+
+    <string name="lion">Lion</string>
+    <string name="lionDesc">The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. </string>
+
+    <string name="tiger">Tiger</string>
+    <string name="tigerDesc">The tiger is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside.</string>
+
+    <string name="liger">Liger</string>
+    <string name="ligerDesc">The liger is a hybrid offspring of a male lion and a female tiger. The liger has parents in the same genus but of different species. The liger is distinct from the similar hybrid called the tigon, and is the largest of all known extant felines. </string>
+
+    <string name="panther">Black Panther</string>
+    <string name="pantherDesc">A black panther is the melanistic colour variant of the leopard (Panthera pardus) and the jaguar (Panthera onca). Black panthers of both species have excess black pigments, but their typical rosettes are also present.</string>
+
+    <string name="panda">Panda</string>
+    <string name="pandaDesc">The giant panda (Ailuropoda melanoleuca), also known as the panda bear (or simply the panda), is a bear species endemic to China.[4] It is characterised by its bold black-and-white coat and rotund body. The name "giant panda" is sometimes used to distinguish it from the red panda, a neighboring musteloid.</string>
+
+    <string name="warn">Are you sure you want to proceed with this animal?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

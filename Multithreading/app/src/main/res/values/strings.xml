@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multithreading</string>
+    <string name="enterPrompt">Enter URL:</string>
+    <string name="runnables">Run Runnables</string>
+    <string name="messages">Run Messages</string>
+    <string name="async">Run Async</string>
+    <string name="reset">Reset Image</string>
+</resources>
